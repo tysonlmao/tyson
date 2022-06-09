@@ -8,7 +8,13 @@ Kmart Traralgon
 
 placeholder for a reference (still waiting for that)
 ```bash
-263 days
+Started 24th September, 2021
+Resigned 13th June, 2022
 ```
 
 Image Direct
+
+```bash
+Started 30th May, 2022
+~ present
+```
